@@ -1,0 +1,40 @@
+{
+  "messenger":
+    "https://m.me/onlinetayaanchat",
+
+  "videoTutorial":
+    "https://drive.google.com/drive/folders/12QL5w7xX1yK2qkqnz0eoFtXEndOTX-T4",
+
+  "servers": [
+
+    {
+      "name": "Server 1",
+      "url":
+        "https://mtl-app.com/register?code=66EECEC9A44EB745"
+    },
+
+    {
+      "name": "Server 2",
+      "url":
+        "https://mtl-pro.com/register?code=66EECEC9A44EB745"
+    },
+
+    {
+      "name": "Server 3",
+      "url":
+        "https://mtl.onl/register?code=66EECEC9A44EB745"
+    },
+
+    {
+      "name": "Server 4",
+      "url":
+        "https://mtl.mobi/register?code=66EECEC9A44EB745"
+    },
+
+    {
+      "name": "Server 5",
+      "url":
+        "https://lottomatik.co/register?code=66EECEC9A44EB745"
+    }
+  ]
+}
